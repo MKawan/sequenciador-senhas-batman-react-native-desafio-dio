@@ -1,6 +1,5 @@
 # Batman Pass Generator
-
-![Batman Pass Generator](https://your-image-link.com/banner.png)
+![Captura de Tela (376)](https://github.com/MKawan/sequenciador-senhas-batman-react-native-desafio-dio/assets/51447066/cd6106e6-6681-4058-b71e-f7c7c870696f)
 
 ## Descrição
 O Batman Pass Generator é um aplicativo móvel desenvolvido com React Native e Expo, que gera senhas aleatórias seguras. Este projeto foi criado como parte de um desafio de desenvolvimento da DIO (Digital Innovation One). O objetivo é fornecer uma ferramenta simples e eficiente para gerar senhas fortes, inspiradas no tema do Batman.
